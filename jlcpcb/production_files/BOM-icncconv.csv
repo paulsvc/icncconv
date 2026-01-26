@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100nF,"C1,C3,C4,C5,C6",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C24497,5
+10K,"R1,R2,R3,R4",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C17902,4
+10uF,C2,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C9807,1
+20K,"R10,R5,R6,R7,R8,R9",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C18003,6
+20K,"RV1,RV2",Potentiometer_Bourns_3214W_Vertical,C720648,2
+47nF,C7,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C21812,1
+50K,RV3,Potentiometer_Bourns_3214W_Vertical,C913246,1
+Conn_01x09_Pin,J1,DSUB-9_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset4.94mm,C189756,1
+Conn_01x09_Pin,J2,DSUB-9_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset4.94mm,C2834361,1
+MC3487N,U2,DIP-16_W7.62mm,C2671192,1
+SW_SPDT,SW1,SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm,C600988,1
+iC-NV,U1,TSSOP-20_4.4x6.5mm_P0.65mm,C5240841,1
+TestPoint,TP2,Pin_D1.3mm_L11.0mm,,1
+TestPoint,TP1,Pin_D1.3mm_L11.0mm,,1
