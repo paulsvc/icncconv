@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MC3487N")(type "KiCad")(uri "${KIPRJMOD}/lib/MC3487N/MC3487N.kicad_sym")(options "")(descr ""))
   (lib (name "icnv")(type "KiCad")(uri "${KIPRJMOD}/lib/icnv.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/pauls/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )

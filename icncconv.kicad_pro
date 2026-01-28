@@ -518,6 +518,12 @@
       "COS-": [
         "difpair"
       ],
+      "IDX+": [
+        "difpair"
+      ],
+      "IDX-": [
+        "difpair"
+      ],
       "SIN+": [
         "difpair"
       ],
@@ -557,6 +563,10 @@
       {
         "netclass": "power",
         "pattern": "+5V"
+      },
+      {
+        "netclass": "power",
+        "pattern": "GNDS"
       }
     ]
   },
